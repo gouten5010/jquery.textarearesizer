@@ -1,0 +1,22 @@
+{
+  "name": "jquery.textarearesizer",
+  "version": "1.0.0",
+  "description": "This is textarea resize pligin for jQuery.",
+  "main": "jquery.textarearesizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouten5010/jquery.textarearesizer.git"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gouten5010/jquery.textarearesizer/issues"
+  },
+  "homepage": "https://github.com/gouten5010/jquery.textarearesizer#readme"
+}
